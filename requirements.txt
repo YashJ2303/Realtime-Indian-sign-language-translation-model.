@@ -1,0 +1,35 @@
+```
+# ===============================
+# ISL Gesture Translator Project
+# Requirements for running app + training
+# ===============================
+
+# Core ML Framework
+tensorflow>=2.10
+
+# Numerical Computing
+numpy>=1.21
+
+# Computer Vision
+opencv-python>=4.6
+
+# Hand Tracking Utilities
+cvzone>=1.5
+
+# Streamlit Web Application
+streamlit>=1.25
+
+# Environment Variables (.env support)
+python-dotenv>=1.0
+
+# API Requests (Groq translation support)
+requests>=2.28
+
+# Training Utilities
+scikit-learn>=1.2
+
+# Image Handling (Streamlit uploads)
+pillow>=9.0
+
+
+```
