@@ -138,14 +138,3 @@ Realtime accuracy depends on lighting and framing.
 
 Full sentence-level recognition is future work.
 
-## Credits
-
-#### Nishit Jain
-
-#### Pragati Thawkar 
-
-#### Yash Joshi
-
-#### Gaurav Saini
-
-#### Jayesh Kawale
